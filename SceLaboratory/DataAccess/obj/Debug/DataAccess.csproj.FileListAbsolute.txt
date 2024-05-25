@@ -1,0 +1,6 @@
+D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\DataAccess\bin\Debug\DataAccess.dll
+D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\DataAccess\bin\Debug\DataAccess.pdb
+D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\DataAccess\obj\Debug\DataAccess.dll
+D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\DataAccess\obj\Debug\DataAccess.pdb
