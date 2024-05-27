@@ -16,7 +16,7 @@ namespace Presentation
     {
         double temperatura = 0, humedad = 0;
         bool actualizarDato = false;
-        int tabla = 1;
+        //int tabla = 1;
 
         private String strBufferIn;
         private String strBufferOut;

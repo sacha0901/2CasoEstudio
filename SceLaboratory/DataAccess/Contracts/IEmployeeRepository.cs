@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Contracts
 {
-    public interface IEmployeeRepository: IGenericRepository<Employee>
+    public interface IEmployeeRepository : IGenericRepository<Employee>
     {
-        
+ 
     }
 }

@@ -92,6 +92,7 @@
             // lblClave
             // 
             this.lblClave.AutoSize = true;
+            this.lblClave.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.lblClave.Location = new System.Drawing.Point(36, 106);
             this.lblClave.Name = "lblClave";
             this.lblClave.Size = new System.Drawing.Size(64, 13);
@@ -108,6 +109,7 @@
             // lblUsuario
             // 
             this.lblUsuario.AutoSize = true;
+            this.lblUsuario.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.lblUsuario.Location = new System.Drawing.Point(36, 71);
             this.lblUsuario.Name = "lblUsuario";
             this.lblUsuario.Size = new System.Drawing.Size(46, 13);

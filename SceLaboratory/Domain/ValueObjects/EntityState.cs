@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccess.Entities;
-using DataAccess.Contracts;
 
-namespace DataAccess.Repositories
+namespace Domain.ValueObjects
 {
-    internal interface EmployeeRepository
+    public enum  EntityState
     {
+        Added,
+        Deleted,
+        Modified
     }
 }

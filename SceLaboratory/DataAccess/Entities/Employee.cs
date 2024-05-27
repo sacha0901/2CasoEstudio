@@ -8,8 +8,8 @@ namespace DataAccess.Entities
 {
     public class Employee
     {
-        private int idPk {  get; set; }
-        private string idNumber {  get; set; }
+        public int idPk {  get; set; }
+        public string idNumber {  get; set; }
         public string name { get; set; }
         public string mail {  get; set; }   
         public DateTime birthday { get; set; }  
