@@ -43,10 +43,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectionToSql.cs" />
+    <Compile Include="Contracts\IDatosRepository.cs" />
     <Compile Include="Contracts\IEmployeeRepository.cs" />
     <Compile Include="Contracts\IGenericRepository.cs" />
+    <Compile Include="Entities\Datos.cs" />
     <Compile Include="Entities\Employee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\DatosRepository.cs" />
     <Compile Include="Repositories\EmployerRepository.cs" />
     <Compile Include="Repositories\MasterRepository.cs" />
     <Compile Include="Repositories\Repository.cs" />

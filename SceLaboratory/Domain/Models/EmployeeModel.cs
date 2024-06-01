@@ -32,7 +32,7 @@ namespace Domain.Models
         [Required(ErrorMessage = "The field identification number is requerid")]
         [RegularExpression("([0-9]+)", ErrorMessage = "Identification number must be only numbers ")]
         [StringLength(maximumLength: 10, MinimumLength = 8, ErrorMessage = "Identification number must be 10 digits")]
-        public string Telefono { get => idNumber; set => idNumber = value; }
+        public string IdNumber { get => idNumber; set => idNumber = value; }
         [Required]
         [RegularExpression("^[a-zA-Z ]+$", ErrorMessage = "The field name must be only letters")]
         [StringLength(maximumLength: 100, MinimumLength = 3)]
@@ -114,7 +114,7 @@ namespace Domain.Models
         public IEnumerable<EmployeeModel> FindById(string filter)
         {
             //return GetAll().FindAll(e => e.IdNumber.Contains(filter) || e.name.Contains(filter));
-            return listEmployees.FindAll(e => e.Telefono.Contains(filter) || e.name.Contains(filter));
+            return listEmployees.FindAll(e => e.idNumber.Contains(filter) || e.name.Contains(filter));
         }
         private int CalculateAge(DateTime date)
         {

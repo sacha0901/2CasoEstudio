@@ -222,7 +222,7 @@
   <data name="btnLogout.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA6+AAAOvgHqQrHAAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA68AAAOvAGVvHJJAAAAB3RJ
         TUUH5QIBEhQ2tpchRgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFnSURBVEhL
         5VW9TsMwGAywIvEQMMDCxMCAkBNYGBBTH6FpbcQLMIWuwMSAWBkZYWDgDZCQYC9q7NKFoStCogrn9Ksa
         Ejf51E7ASSdb8d19cfwT72+iVksWfKlDIfUl2qtJtOOB0nWrJysPvozPEZBwKaQ5JSsPMLXzIRVsk5UH
@@ -236,7 +236,7 @@
   <data name="btnPacients.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA69AAAOvQFH+5CtAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA68AAAOvAGVvHJJAAAAB3RJ
         TUUH5QIBEgoUt7ZffQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHSSURBVEhL
         zZW7S8NQFMbjY1HRQUScnNTBRQUHRSg3qVQcXNTirEKTXHEQ3M1f4HMQRJ10dXNwEEcHH5NCwdbmJlLF
         tboYMZ7bnoY0TSOmBf3gg+Sc7/za5N5LhH8jTbPro0tPfRHZ7BUEuw7LtVGU6qKosjTYRqeIkiHYrk4R
@@ -251,7 +251,7 @@
   <data name="btnUsers.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA6+AAAOvgHqQrHAAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA68AAAOvAGVvHJJAAAAB3RJ
         TUUH5QIBEgc3oH9QQgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFdSURBVEhL
         5ZQxS8QwGIaLg6j/QJzERcFJQXHwSKKrOHXQSURKmrq4qVPxBzgrbuK/UUEH5yYpHILonb/g/HL9Bq/9
         KE276QsPlMv7PdeStMH/yNZZPstjfcilvnYIZQ/YUTaDy93Ck3yTx8YCoxJayHwDa+0iIrsEokFJ/Juv
@@ -264,5 +264,8 @@
   </data>
   <metadata name="SpPorts.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
   </metadata>
 </root>

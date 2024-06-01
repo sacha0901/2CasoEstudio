@@ -90,7 +90,7 @@ namespace Presentation.Forms
         }
         private void SpPorts_DataReceived_1(object sender, SerialDataReceivedEventArgs e)
         {
-  try
+            try
             {
                 string dataIn = SpPorts.ReadLine();
                

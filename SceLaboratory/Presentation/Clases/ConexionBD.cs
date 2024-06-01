@@ -33,6 +33,4 @@ namespace Presentation.Clases
             ConectarBD.Close();
         }
     }
-
-
 }

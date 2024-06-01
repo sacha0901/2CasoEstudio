@@ -44,6 +44,7 @@ namespace Presentation
                 if (Conected == false)
                 {
                     SpPorts.BaudRate = Int32.Parse(CboBaudRate.Text);
+                    
                     SpPorts.DataBits = 8;
                     SpPorts.Parity = Parity.None;
                     SpPorts.StopBits = StopBits.One;
@@ -125,6 +126,7 @@ namespace Presentation
             this.BeginInvoke(new EventHandler(mostrarDatos));
         }
 
+
         private void mostrarDatos(object sender, EventArgs e)
         {
             if(actualizarDato == true)
@@ -181,7 +183,6 @@ namespace Presentation
            
 
         }
-
         private void CargarDatos()
         {
             dgvDatos.DataSource = datosCRUD.ObtenerDatos();

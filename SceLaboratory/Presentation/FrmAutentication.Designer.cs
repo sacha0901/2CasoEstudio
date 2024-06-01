@@ -40,9 +40,20 @@
             this.lblTitulo = new System.Windows.Forms.Label();
             this.erpUsuario = new System.Windows.Forms.ErrorProvider(this.components);
             this.erpClave = new System.Windows.Forms.ErrorProvider(this.components);
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.BtnConectLogin = new System.Windows.Forms.Button();
+            this.CboPortsLogin = new System.Windows.Forms.ComboBox();
+            this.BtnSearchPortsLogin = new System.Windows.Forms.Button();
+            this.CboBaudRateLogin = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.SpPortsLogin = new System.IO.Ports.SerialPort(this.components);
+            this.txbDato = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pctLogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.erpUsuario)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.erpClave)).BeginInit();
+            this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // pctLogo
@@ -124,7 +135,7 @@
             this.lblTitulo.Location = new System.Drawing.Point(8, 7);
             this.lblTitulo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Size = new System.Drawing.Size(445, 43);
+            this.lblTitulo.Size = new System.Drawing.Size(525, 43);
             this.lblTitulo.TabIndex = 21;
             this.lblTitulo.Text = "Iniciar Sesión";
             this.lblTitulo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -137,11 +148,119 @@
             // 
             this.erpClave.ContainerControl = this;
             // 
+            // panel3
+            // 
+            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel3.Controls.Add(this.pictureBox1);
+            this.panel3.Controls.Add(this.BtnConectLogin);
+            this.panel3.Controls.Add(this.CboPortsLogin);
+            this.panel3.Controls.Add(this.BtnSearchPortsLogin);
+            this.panel3.Controls.Add(this.CboBaudRateLogin);
+            this.panel3.Controls.Add(this.label2);
+            this.panel3.Location = new System.Drawing.Point(39, 230);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(408, 94);
+            this.panel3.TabIndex = 45;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pictureBox1.Location = new System.Drawing.Point(316, 35);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(12, 12);
+            this.pictureBox1.TabIndex = 23;
+            this.pictureBox1.TabStop = false;
+            // 
+            // BtnConectLogin
+            // 
+            this.BtnConectLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
+            this.BtnConectLogin.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
+            this.BtnConectLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnConectLogin.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BtnConectLogin.Location = new System.Drawing.Point(308, 24);
+            this.BtnConectLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.BtnConectLogin.Name = "BtnConectLogin";
+            this.BtnConectLogin.Size = new System.Drawing.Size(92, 34);
+            this.BtnConectLogin.TabIndex = 33;
+            this.BtnConectLogin.Text = "Conect";
+            this.BtnConectLogin.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.BtnConectLogin.UseVisualStyleBackColor = false;
+            this.BtnConectLogin.Click += new System.EventHandler(this.BtnConectLogin_Click);
+            // 
+            // CboPortsLogin
+            // 
+            this.CboPortsLogin.FormattingEnabled = true;
+            this.CboPortsLogin.Location = new System.Drawing.Point(143, 9);
+            this.CboPortsLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CboPortsLogin.Name = "CboPortsLogin";
+            this.CboPortsLogin.Size = new System.Drawing.Size(119, 21);
+            this.CboPortsLogin.TabIndex = 25;
+            // 
+            // BtnSearchPortsLogin
+            // 
+            this.BtnSearchPortsLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
+            this.BtnSearchPortsLogin.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
+            this.BtnSearchPortsLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnSearchPortsLogin.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BtnSearchPortsLogin.Location = new System.Drawing.Point(9, 9);
+            this.BtnSearchPortsLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.BtnSearchPortsLogin.Name = "BtnSearchPortsLogin";
+            this.BtnSearchPortsLogin.Size = new System.Drawing.Size(107, 32);
+            this.BtnSearchPortsLogin.TabIndex = 26;
+            this.BtnSearchPortsLogin.Text = "search ports";
+            this.BtnSearchPortsLogin.UseVisualStyleBackColor = false;
+            this.BtnSearchPortsLogin.Click += new System.EventHandler(this.BtnSearchPortsLogin_Click);
+            // 
+            // CboBaudRateLogin
+            // 
+            this.CboBaudRateLogin.FormattingEnabled = true;
+            this.CboBaudRateLogin.Items.AddRange(new object[] {
+            "1200",
+            "2400",
+            "4800",
+            "9600",
+            "14400",
+            "19200",
+            "28800",
+            "38400",
+            "56000",
+            "115200"});
+            this.CboBaudRateLogin.Location = new System.Drawing.Point(143, 50);
+            this.CboBaudRateLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CboBaudRateLogin.Name = "CboBaudRateLogin";
+            this.CboBaudRateLogin.Size = new System.Drawing.Size(119, 21);
+            this.CboBaudRateLogin.TabIndex = 27;
+            this.CboBaudRateLogin.Text = "9600";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.Gray;
+            this.label2.Location = new System.Drawing.Point(6, 59);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(57, 13);
+            this.label2.TabIndex = 28;
+            this.label2.Text = "Velocidad ";
+            // 
+            // SpPortsLogin
+            // 
+            this.SpPortsLogin.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.SpPortsLogin_DataReceived);
+            // 
+            // txbDato
+            // 
+            this.txbDato.Location = new System.Drawing.Point(429, 332);
+            this.txbDato.Name = "txbDato";
+            this.txbDato.Size = new System.Drawing.Size(100, 20);
+            this.txbDato.TabIndex = 46;
+            // 
             // FrmAutentication
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(461, 196);
+            this.ClientSize = new System.Drawing.Size(541, 364);
+            this.Controls.Add(this.txbDato);
+            this.Controls.Add(this.panel3);
             this.Controls.Add(this.pctLogo);
             this.Controls.Add(this.btnIngresar);
             this.Controls.Add(this.btnCerrar);
@@ -152,9 +271,13 @@
             this.Controls.Add(this.lblTitulo);
             this.Name = "FrmAutentication";
             this.Text = "FrmAutentication";
+            this.Load += new System.EventHandler(this.FrmAutentication_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pctLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.erpUsuario)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.erpClave)).EndInit();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -172,5 +295,14 @@
         private System.Windows.Forms.Label lblTitulo;
         private System.Windows.Forms.ErrorProvider erpUsuario;
         private System.Windows.Forms.ErrorProvider erpClave;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button BtnConectLogin;
+        private System.Windows.Forms.ComboBox CboPortsLogin;
+        private System.Windows.Forms.Button BtnSearchPortsLogin;
+        private System.Windows.Forms.ComboBox CboBaudRateLogin;
+        private System.Windows.Forms.Label label2;
+        private System.IO.Ports.SerialPort SpPortsLogin;
+        private System.Windows.Forms.TextBox txbDato;
     }
 }

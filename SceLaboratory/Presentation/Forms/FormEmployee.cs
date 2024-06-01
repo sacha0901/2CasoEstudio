@@ -49,19 +49,11 @@ namespace Presentation.Forms
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            employee.Telefono = txtIdNumber.Text;
+            employee.IdNumber = txtIdNumber.Text;
             employee.Mail = txtMail.Text;
             employee.Name = txtName.Text;
             employee.Birthday = dtpBirthday.Value;
 
-           /*
-                string result =  employee.SaveChanges();
-                MessageBox.Show(result);
-                ListEmployees();
-                Restart();
-           */
-      
-            
             bool valid = new Helps.DataValidation(employee).Validate();
             if (valid == true)
             {

@@ -16,3 +16,4 @@ D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLabor
 D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\Presentation\obj\Debug\Presentation.FrmHome.resources
 D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\Presentation\obj\Debug\Presentation.Forms.FormEmployee.resources
 D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\Presentation\obj\Debug\Presentation.Forms.FrmMain.resources
+D:\Mecatronica 8vo Semestre\Diseño Mecatronico\SEGUNDO_CASO_DE_ESTUDIO\SceLaboratory\Presentation\obj\Debug\Presentation.Forms.FrmDatos.resources

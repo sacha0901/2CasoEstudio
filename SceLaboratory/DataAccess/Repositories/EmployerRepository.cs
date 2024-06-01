@@ -27,7 +27,7 @@ namespace DataAccess.Repositories
         {
             selectAll = "select *from Employee";
             insert = "insert into Employee values(@idNumber,@name,@mail,@birthday)";
-            update = "update Employee set IdNumber=@idNumber,Name=@name,Mail=@mail,Birthday=@birthday where idPK=@idPK";
+            update = "update Employee set IdNumber=@idNumber,Name=@name,Mail=@mail,Birthday=@birthday where IdPK=@idPK";
             delete = "delete from Employee where idPk=@idPK";
         }
 
