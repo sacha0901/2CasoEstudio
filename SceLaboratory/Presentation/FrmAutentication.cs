@@ -56,9 +56,9 @@ namespace Presentation
             if (validar())
             {
                 UserModel user = new UserModel();
-                var validLogin = user.LoginUser(txtUsuario.Text, txtClave.Text);
+                var validUser = user.LoginUser(txtUsuario.Text, txtClave.Text);
 
-                if (validLogin == true)
+                if (validUser == true)
                 {
                     FrmHome mainMenu = new FrmHome();
                     mainMenu.Show();

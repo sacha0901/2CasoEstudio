@@ -45,7 +45,7 @@ namespace Domain.Models
 
         public EmployeeModel()
         {
-            employeeRepository = new EmployerRepository();
+            employeeRepository = new EmployeeRepository();
         }
         public string SaveChanges()
         {

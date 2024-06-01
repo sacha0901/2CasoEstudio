@@ -12,7 +12,7 @@ using System.Globalization;
 
 namespace DataAccess.Repositories
 {
-    public class EmployerRepository : MasterRepository, IEmployeeRepository
+    public class EmployeeRepository : MasterRepository, IEmployeeRepository
     {
         //Campos
         private string selectAll;
@@ -23,7 +23,7 @@ namespace DataAccess.Repositories
         //:::
 
         //Constructores
-        public EmployerRepository()
+        public EmployeeRepository()
         {
             selectAll = "select *from Employee";
             insert = "insert into Employee values(@idNumber,@name,@mail,@birthday)";

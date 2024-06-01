@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|d:\\mecatronica 8vo semestre\\dise\u00F1o mecatronico\\segundo_caso_de_estudio\\scelaboratory\\presentation\\forms\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\forms\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|d:\\mecatronica 8vo semestre\\dise\u00F1o mecatronico\\segundo_caso_de_estudio\\scelaboratory\\presentation\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|d:\\mecatronica 8vo semestre\\dise\u00F1o mecatronico\\segundo_caso_de_estudio\\scelaboratory\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\forms\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\forms\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\frmautentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\frmautentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\frmautentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\frmautentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\forms\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\forms\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\clases\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\clases\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\presentation\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362519B3-E8C7-4ED0-95D2-FB4282D5FDDF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{616345DB-3149-4329-960F-565B03D37467}|Domain\\Domain.csproj|d:\\mecatronica 8vo semestre\\dise\u00F1o mecatronico\\segundo_caso_de_estudio\\scelaboratory\\domain\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616345DB-3149-4329-960F-565B03D37467}|Domain\\Domain.csproj|solutionrelative:domain\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,118 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Program.cs",
-              "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T22:08:15.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormEmployee.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Forms\\FormEmployee.cs",
-              "RelativeDocumentMoniker": "Presentation\\Forms\\FormEmployee.cs",
-              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Forms\\FormEmployee.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Presentation\\Forms\\FormEmployee.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T22:08:07.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "FrmDatos.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Forms\\FrmDatos.cs",
               "RelativeDocumentMoniker": "Presentation\\Forms\\FrmDatos.cs",
               "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Forms\\FrmDatos.cs [Dise\u00F1o]",
               "RelativeToolTip": "Presentation\\Forms\\FrmDatos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:57:02.436Z"
+              "WhenOpened": "2024-06-01T02:56:31.851Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConexionBD.cs",
-              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Clases\\ConexionBD.cs",
-              "RelativeDocumentMoniker": "Presentation\\Clases\\ConexionBD.cs",
-              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Clases\\ConexionBD.cs",
-              "RelativeToolTip": "Presentation\\Clases\\ConexionBD.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:50:51.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmHome.cs",
-              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\FrmHome.cs",
-              "RelativeDocumentMoniker": "Presentation\\FrmHome.cs",
-              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\FrmHome.cs",
-              "RelativeToolTip": "Presentation\\FrmHome.cs",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAUwLgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T01:51:10.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FrmHome.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\FrmHome.cs",
               "RelativeDocumentMoniker": "Presentation\\FrmHome.cs",
               "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\FrmHome.cs [Dise\u00F1o]",
               "RelativeToolTip": "Presentation\\FrmHome.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T01:51:07.936Z"
+              "WhenOpened": "2024-06-01T02:48:52.724Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmAutentication.cs",
-              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\FrmAutentication.cs",
-              "RelativeDocumentMoniker": "Presentation\\FrmAutentication.cs",
-              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\FrmAutentication.cs",
-              "RelativeToolTip": "Presentation\\FrmAutentication.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAAJAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T01:48:34.084Z"
+              "WhenOpened": "2024-06-01T02:43:50.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmMain.cs",
-              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Forms\\FrmMain.cs",
-              "RelativeDocumentMoniker": "Presentation\\Forms\\FrmMain.cs",
-              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Forms\\FrmMain.cs",
-              "RelativeToolTip": "Presentation\\Forms\\FrmMain.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAcwGgAAAAMAAAA",
+              "DocumentIndex": 3,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Domain\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\EmployeeModel.cs",
+              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Domain\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Domain\\Models\\EmployeeModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T12:25:14.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmMain.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Forms\\FrmMain.cs",
-              "RelativeDocumentMoniker": "Presentation\\Forms\\FrmMain.cs",
-              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\Forms\\FrmMain.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Presentation\\Forms\\FrmMain.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T12:21:42.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmAutentication.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\FrmAutentication.cs",
-              "RelativeDocumentMoniker": "Presentation\\FrmAutentication.cs",
-              "ToolTip": "D:\\Mecatronica 8vo Semestre\\Dise\u00F1o Mecatronico\\SEGUNDO_CASO_DE_ESTUDIO\\SceLaboratory\\Presentation\\FrmAutentication.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Presentation\\FrmAutentication.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T12:17:15.017Z"
+              "WhenOpened": "2024-06-01T02:38:02.42Z",
+              "EditorCaption": ""
             }
           ]
         }
